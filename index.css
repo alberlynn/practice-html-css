@@ -1,0 +1,49 @@
+body {
+    background-color: blue;
+}
+
+button {
+    background-color: chartreuse;
+    color: darkblue;
+    border-radius: 10px;
+}
+
+#input_cm {
+    background-color: darkred;
+}
+
+#input_grosor {
+    background-color: rgb(35, 154, 252);
+}
+
+#titulo {
+    font-size: 36px;
+    font-family: cursive;
+    font-weight: bold;
+    text-shadow: 10px 25px rgb(224, 5, 5);
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+
+#titulo:hover {
+    font-size: 40px;
+    font-family: cursive;
+    text-shadow: 10px 25px rgb(194, 243, 17);
+}
+
+span {
+    font-size: 28px;
+}
+
+.aplicar-negrita {
+    font-weight: bold;
+}
+
+.imagen {
+    width: 2000px;
+    height: 1400px;
+}
+
+.rojo-rojo {
+    background-color: fuchsia;
+}
